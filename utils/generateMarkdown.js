@@ -89,7 +89,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.licenseSelection)}
 
-  ##Contributing
+  ## Contributing
 
   ${data.contributing}
 
