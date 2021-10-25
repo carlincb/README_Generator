@@ -54,8 +54,7 @@ function renderLicenseSection(license) {
   if (license === null) {
     return "";
   } else {
-    return `This project is covered under ${license}
-    ${renderLicenseLink(license)}`;
+    return `This project is covered under: ${license}.<br />${renderLicenseLink(license)}`;
   }
 }
 
