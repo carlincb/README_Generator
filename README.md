@@ -2,21 +2,17 @@
 
 ## Description
 
-### **What was my motivation?**
+**What was my motivation?**
+I needed to create an application for generating a professional README file.
 
-    I needed to create an application for generating a professional README file.
+**Why did I build this project?**
+I built this project to better understand how to implement Node.js, JavaScript Objects, Switch Statements, and Function Dependency.
 
-### **Why did I build this project?**
+**What problem does it solve?**
+This project creates an application to quickly generate a README with much of the formatting and questions already in place.
 
-    I built this project to better understand how to implement Node.js, JavaScript Objects, Switch Statements, and Function Dependency.
-
-### **What problem does it solve?**
-
-    This project creates an application to quickly generate a README with much of the formatting and questions already in place.
-
-### **What did I learn?**
-
-    I learned about Node.js, JavaScript Objects, Switch Statements, and Function Dependency.
+**What did I learn?**
+I learned about Node.js, JavaScript Objects, Switch Statements, and Function Dependency.
 
 ## User Story
 
@@ -114,7 +110,7 @@ You can contribute to this project by emailing me at: carlin.colleen@gmail.com.
 
 ## Tests
 
-Tests can be completed using JEST.
+Tests can be completed using https://jestjs.io/.
 
 ## Questions
 
