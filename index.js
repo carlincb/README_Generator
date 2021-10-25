@@ -29,7 +29,7 @@ const questions = [
   {
     type: "input",
     message:
-      "Please include all those who collaborated with you on this project",
+      "Please let other developers know how they can contribute to this project.",
     name: "contributing",
   },
   {
